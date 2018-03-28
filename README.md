@@ -23,3 +23,4 @@ implement object oriented software designs in ANSI C.
 - class member variables are private and hidden by default, the user
   must provide accessor functions
 - basic Doxygen support
+- optional generation of MISRA compliant instance pool management
