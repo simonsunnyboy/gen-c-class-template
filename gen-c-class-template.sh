@@ -218,7 +218,8 @@ create_hfile_content () {
     #include <stdint.h>
     
     /**
-     * @brief member definition for class CLASSNAME
+     * @brief    member definition for class CLASSNAME
+     * @details  Actual member definition is placed into the C file to hide the implementation.
      */
     struct CLASSNAME;
     
